@@ -1,2 +1,23 @@
 # Blue-Team-Tools
 This contains a list of Blue Team Tools that I use daily, and have stored here for reference.
+
+
+## Network Traffic Analysis
+Traffic analysis can cover both PCAP data and Flow data. Here I am focusing on analyzing PCAP Data, as my use of Flow data is concerned mostly with hunting and monitoring.
+
+### What I use
+
+All of the Traffic Analysis that I perform is done on a Ubuntu VM running the below tools. Most often when Analyzing a PCAP I use Wireshark and Network Miner side by side.
+
+- Wireshark:
+	- Graphical PCAP Analysis Tool
+- TCPDump:
+	- Command line based PCAP Analysis Tool
+- Network Miner:
+	- PCAP Parser and Analyzer
+- Snort:
+	- Intrusion Detection System
+- Bro:
+	- Intrusion Detection System
+- Whois Lookup
+	- IP Address Lookup Tool
