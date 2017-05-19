@@ -28,7 +28,7 @@ I use a suite of VM's for my Analysis that references the environments that I wo
 #### Dynamic Analysis
 - Malwr.com:
 	- Website where you can upload your sample and detonate it in a virtual sandbox.
-- Hybrid-analysis.com"
+- Hybrid-analysis.com
 	- Website where you can upload your sample and detonate it in a virtual sandbox.
 - Wireshark:
 	- Network Traffic Analysis Tool.
