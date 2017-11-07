@@ -16,6 +16,12 @@ I use a suite of VM's for my Analysis that references the environments that I wo
 	- x86 Disassembler.
 - Ollydbg:
 	- x86 Disassembler.
+- WinDbg:
+	-  x86-based, x64-based, or ARM debugger.
+- IlSpy:
+	- .NET decompiler.
+- CFF Explorer:
+	- PE Editor.
 - PE View:
 	- PE File Viewer.
 - PEID:
@@ -25,9 +31,13 @@ I use a suite of VM's for my Analysis that references the environments that I wo
 - CRITS:
 	- Malware analysis and IOC storage platform. Handy for quick analysis on Malware.
 	- Can extract macros and javascript embedded in documents
+- Malzilla:
+	- Malware hunting tool.
+- Streams:
+	- Sys internals tool for viewing Alternative Data Streams attached to files.
 #### Dynamic Analysis
 - Malwr.com:
-	- Website where you can upload your sample and detonate it in a virtual sandbox.
+	- Website where you can upload your sample and detonate it in a virtual sanbox.
 - Hybrid-analysis.com
 	- Website where you can upload your sample and detonate it in a virtual sandbox.
 - Wireshark:
@@ -42,6 +52,10 @@ I use a suite of VM's for my Analysis that references the environments that I wo
 	- Can take a before and after snapshot of your registry.
 - Network Traffic Analysis VM:
 	- See related section.
+- Volatility:
+	- Memory forensics.
+- Hijack This:
+	- Browser Helper Object Tool.
 
 
 ## Network Traffic Analysis
