@@ -9,6 +9,8 @@ Malware Analysis is a broad scope. My aim is to extract IOC's to use for further
 
 I use a suite of VM's for my Analysis that references the environments that I work with. The main testing ground is done on a Windows 7 VM with no AV installed. Then another Windows 7 VM with all the corporate security tools installed. Aditionally I will also use the Ubuntu VM mentioned in the below section for Network Traffic Analysis.
 
+Alternatives to these machine include using Fire Eye's "Flare VM", which comes pre installed with many useful tools that I have not listed here. I am still in the process of testing the VM, though it does allow for easier network forensics without the use of a second VM running iNetSim.
+
 #### Static Analysis
 - Notepad ++:	
 	- Advanced text editor, used in order to view any javascript files.
@@ -56,6 +58,8 @@ I use a suite of VM's for my Analysis that references the environments that I wo
 	- Memory forensics.
 - Hijack This:
 	- Browser Helper Object Tool.
+- iNetSim:
+	- Internet Simulator.
 
 
 ## Network Traffic Analysis
